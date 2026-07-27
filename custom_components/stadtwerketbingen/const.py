@@ -20,7 +20,6 @@ DEVICE_SELECTION_KEYS = [
 
 BACKEND_URL = "https://external.prod.zaehlerfreunde.com"
 INGEST_URL = "https://external.prod.zaehlerfreunde.com"
-APP_URL = "https://energiepilot.swt.de"
 LINK_POLLING_INTERVAL_SECONDS = 2
 LINK_POLLING_TIMEOUT_SECONDS = 600
 
