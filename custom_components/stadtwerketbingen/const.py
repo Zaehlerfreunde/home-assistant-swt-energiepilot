@@ -1,6 +1,6 @@
 """Constants for the Zaehlerfreunde integration."""
 
-DOMAIN = "stadtwerketbingen"
+PARTNER_ID = "stadtwerketbingen"
 PLATFORMS = ["sensor"]
 DEFAULT_NAME = "swt-EnergiePilot"
 
